@@ -11,7 +11,7 @@ type testStruct struct {
 	Email      []string
 	Occupation string
 }
-<pre>
+</pre>
 
 <pre>
 	testStruct := testStruct{"Ethan", []string{"emdesouza@gmail.com"}, "engineer"}
